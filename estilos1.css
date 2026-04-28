@@ -1,0 +1,54 @@
+<head>
+<style>
+<body>
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: lightblue;
+  text-align: center;
+  background-color: green;
+  opacity: 0.3;
+  font-family: papyrus;
+}
+
+h2 {
+  font-family: papyrus;
+  font-size: 30px;
+  color: yellow;
+  background-color: green;
+  opacity: 0.3;
+}
+h3 {
+  font-family: papyrus;
+  font-size: 20px;
+  color:yellow;
+  background-color:green;
+  opacity: 0.3;
+}
+p {
+  font-family: papyrus;
+  font-size: 15px;
+  text-align: justify;
+  border: 0px solid black;
+}
+
+table, th, td {
+  border: 5px solid lightgreen;
+}
+th, td {
+  padding: 5px;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+img {
+  border-radius: 16px;
+  border: 5px solid #ddd;
+}
+</body>
+</style>
+</head>
